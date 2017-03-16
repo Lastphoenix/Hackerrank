@@ -62,8 +62,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SimpleArraySum.cs" />
+    <None Include="SimpleArraySum.cs" />
     <None Include="SolveMeFirst.cs" />
+    <Compile Include="CompareTheTriplets.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
