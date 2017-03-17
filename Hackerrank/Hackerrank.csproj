@@ -64,7 +64,9 @@
   <ItemGroup>
     <None Include="SimpleArraySum.cs" />
     <None Include="SolveMeFirst.cs" />
-    <Compile Include="CompareTheTriplets.cs" />
+    <None Include="CompareTheTriplets.cs" />
+    <None Include="AVeryBigSum.cs" />
+    <Compile Include="DiagonalDifference.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
